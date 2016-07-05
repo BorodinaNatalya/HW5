@@ -1,0 +1,29 @@
+body {
+	background-color: #fff;
+}
+table {
+	width: 500px;
+	height: 541px;
+    border-collapse: collapse;
+    border: -1px solid white; 
+    margin: 0 auto;
+}
+td,
+tr {
+    border: 8px solid black; 
+}
+td {
+	  padding: 4px; 
+}
+.red {
+	background-color: red;
+}
+.yellow {
+	background-color: yellow;
+}
+.black {
+	background-color: black;
+}
+.blue {
+	background-color: blue;
+}
